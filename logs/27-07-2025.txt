@@ -1,0 +1,150 @@
+
+ Position: 1
+ Superman
+ Duration: 2h 9m
+ Rating: 7,6
+-------------------------------------
+
+ Position: 2
+ Sé lo que hicisteis el último verano
+ Duration: 1h 51m
+ Rating: 5,6
+-------------------------------------
+
+ Position: 3
+ Jurassic World: El renacer
+ Duration: 2h 13m
+ Rating: 6,2
+-------------------------------------
+
+ Position: 4
+ F1: La película
+ Duration: 2h 35m
+ Rating: 7,9
+-------------------------------------
+
+ Position: 5
+ Los pecadores
+ Duration: 2h 17m
+ Rating: 7,7
+-------------------------------------
+
+ Position: 6
+ Amateur
+ Duration: 2h 2m
+ Rating: 6,5
+-------------------------------------
+
+ Position: 7
+ Cómo entrenar a tu dragón
+ Duration: 2h 5m
+ Rating: 7,9
+-------------------------------------
+
+ Position: 8
+ El muro negro
+ Duration: 1h 39m
+ Rating: 5,4
+-------------------------------------
+
+ Position: 9
+ Saiyaara
+ Duration: 2h 30m
+ Rating: 7,3
+-------------------------------------
+
+ Position: 10
+ Los 4 Fantásticos: Primeros pasos
+ Duration: 1h 55m
+ Rating: 7,5
+-------------------------------------
+
+ Position: 11
+ Eddington
+ Duration: 2h 28m
+ Rating: 7,1
+-------------------------------------
+
+ Position: 12
+ Las guerreras k-pop
+ Duration: 1h 35m
+ Rating: 7,8
+-------------------------------------
+
+ Position: 13
+ Mis 84 m²
+ Duration: 1h 58m
+ Rating: 5,9
+-------------------------------------
+
+ Position: 14
+ Jefes de Estado
+ Duration: 1h 56m
+ Rating: 6,4
+-------------------------------------
+
+ Position: 15
+ 28 años después
+ Duration: 1h 55m
+ Rating: 7,1
+-------------------------------------
+
+ Position: 16
+ M3GAN 2.0
+ Duration: 2h
+ Rating: 6,1
+-------------------------------------
+
+ Position: 17
+ Ballerina
+ Duration: 2h 4m
+ Rating: 7,0
+-------------------------------------
+
+ Position: 18
+ Thunderbolts*
+ Duration: 2h 7m
+ Rating: 7,3
+-------------------------------------
+
+ Position: 19
+ Mortal Kombat II
+ Duration: Not available
+ Rating: Not available
+-------------------------------------
+
+ Position: 20
+ Devuélvemela
+ Duration: 1h 44m
+ Rating: 7,2
+-------------------------------------
+
+ Position: 21
+ Pitufos
+ Duration: 1h 29m
+ Rating: 4,2
+-------------------------------------
+
+ Position: 22
+ Agárralo como puedas
+ Duration: 1h 25m
+ Rating: Not available
+-------------------------------------
+
+ Position: 23
+ The Odyssey
+ Duration: Not available
+ Rating: Not available
+-------------------------------------
+
+ Position: 24
+ La vieja guardia 2
+ Duration: 1h 47m
+ Rating: 5,1
+-------------------------------------
+
+ Position: 25
+ Happy Gilmore 2
+ Duration: 1h 54m
+ Rating: 6,4
+-------------------------------------
